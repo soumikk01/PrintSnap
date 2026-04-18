@@ -42,7 +42,7 @@ To run PrintSnap locally on your machine:
    ```
 
 3. **Open the App**
-   Open your browser and navigate to the local server URL provided in the terminal (usually `http://localhost:5173`).
+   Open your browser and navigate to the local server URL provided in the terminal (usually `http://localhost:9000`).
 
 ---
 
