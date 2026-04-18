@@ -1,0 +1,6 @@
+{
+  "name": "Passport Photo Generator",
+  "description": "Generate Indian passport size (35mm x 45mm) photo sheets on A4 pages.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
